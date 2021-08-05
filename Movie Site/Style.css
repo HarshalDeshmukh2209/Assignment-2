@@ -1,0 +1,50 @@
+.navbar ul li
+{
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    padding-left: 0px;
+    margin-left: 150px;
+    margin-right: 80px;
+}
+.navbar ul li a
+{
+    color: red;
+}
+.navbar
+{
+    background-image: url("Images/Background Image.jpg");
+    padding: 2vh 3.5vw 2vh 3.5vw;
+    margin-top: 0v;
+    top: 0%;
+}
+.Covers a
+{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.main-body 
+{
+    margin:auto;
+    text-align: center;
+}
+.movie-section 
+{
+    display: inline-block;
+    padding-left: 2.5vw;
+    font-size: 50px;
+    color: blue;
+}
+.movie-section img 
+{
+    height: 25vh;
+    width: auto;
+}
+#footer 
+{
+    background-color:black ;
+    color: white;
+    padding: 10px;
+}
